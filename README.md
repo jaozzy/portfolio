@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
     <title>Em andamento...</title>
     <style>
@@ -38,3 +40,4 @@
 <body>
     <div id="typing-text">Em andamento<span id="ellipsis"></span></div>
 </body>
+</html>
